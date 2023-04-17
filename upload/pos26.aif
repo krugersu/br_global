@@ -1,0 +1,9 @@
+### data begin ###
+{"command": "clearInventory"}
+---
+{"command": "clearTmcScale"}
+---
+---
+{"command": "clearAspectValueSet"}
+---
+### data end ###
