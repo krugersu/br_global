@@ -1676,3 +1676,29 @@
 2023-04-17 11:09:02 | [INFO] | (main.py).|main(107) | Change in stores - []
 2023-04-17 11:09:02 | [INFO] | (main.py).|main(118) | End programs
 2023-04-17 11:09:02 | [INFO] | (main.py).|main(119) | *****************************************************************
+2023-04-17 11:12:03 | [INFO] | (main.py).|main(54) | Start programs
+2023-04-17 11:12:03 | [INFO] | (main.py).|main(55) | Current path /home/administrator
+2023-04-17 11:12:03 | [INFO] | (db.py).|__init__(56) | Connect DB
+2023-04-17 11:12:03 | [INFO] | (db.py).|__init__(59) | Start create DB
+2023-04-17 11:12:03 | [INFO] | (db.py).|__init__(71) | Connect to MySql DB
+2023-04-17 11:12:03 | [INFO] | (main.py).|main(73) | Number of open cash shifts - 0
+2023-04-17 11:12:03 | [INFO] | (dbMysql.py).|get_last_workshift(42) | Date of the last closed cash shift - 279
+2023-04-17 11:12:03 | [INFO] | (dbMysql.py).|get_last_workshift(65) | Getting data on the last closed cash shifts
+2023-04-17 11:12:03 | [INFO] | (main.py).|main(88) | Number of closed cash shifts - 0
+2023-04-17 11:12:03 | [WARNING] | (main.py).|main(89) | l_workshift - ()
+2023-04-17 11:12:03 | [INFO] | (main.py).|main(107) | Change in stores - []
+2023-04-17 11:12:03 | [INFO] | (main.py).|main(118) | End programs
+2023-04-17 11:12:03 | [INFO] | (main.py).|main(119) | *****************************************************************
+2023-04-17 11:15:02 | [INFO] | (main.py).|main(54) | Start programs
+2023-04-17 11:15:02 | [INFO] | (main.py).|main(55) | Current path /home/administrator
+2023-04-17 11:15:02 | [INFO] | (db.py).|__init__(56) | Connect DB
+2023-04-17 11:15:02 | [INFO] | (db.py).|__init__(59) | Start create DB
+2023-04-17 11:15:02 | [INFO] | (db.py).|__init__(71) | Connect to MySql DB
+2023-04-17 11:15:02 | [INFO] | (main.py).|main(73) | Number of open cash shifts - 0
+2023-04-17 11:15:02 | [INFO] | (dbMysql.py).|get_last_workshift(42) | Date of the last closed cash shift - 279
+2023-04-17 11:15:02 | [INFO] | (dbMysql.py).|get_last_workshift(65) | Getting data on the last closed cash shifts
+2023-04-17 11:15:02 | [INFO] | (main.py).|main(88) | Number of closed cash shifts - 0
+2023-04-17 11:15:02 | [WARNING] | (main.py).|main(89) | l_workshift - ()
+2023-04-17 11:15:03 | [INFO] | (main.py).|main(107) | Change in stores - []
+2023-04-17 11:15:03 | [INFO] | (main.py).|main(118) | End programs
+2023-04-17 11:15:03 | [INFO] | (main.py).|main(119) | *****************************************************************
