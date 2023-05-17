@@ -66,6 +66,7 @@ def main():
    # Запpoc по магазинам с изменения
    tData = dbMysql.workDb(rc)
    rec_con = request.req1C(rc)
+   #
    #mCount = request.req1C(rc)
    
    # Список открытых смен от последнего зафиксированного времени
